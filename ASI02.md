@@ -1,4 +1,4 @@
-Agents often bridge the gap between natural language and executable code/APIs. If the agent acts on ambiguous instructions or malicious inputs, it may use tools in unsafe ways (e.g., deleting files, unauthorized refunds).
+> Agents often bridge the gap between natural language and executable code/APIs. If the agent acts on ambiguous instructions or malicious inputs, it may use tools in unsafe ways (e.g., deleting files, unauthorized refunds).
 
 **Attack Vector:** Argument Injection.
 **Realistic Scenario:** A developer assistant agent has access to a system shell tool. A user tricks the agent into chaining commands.
