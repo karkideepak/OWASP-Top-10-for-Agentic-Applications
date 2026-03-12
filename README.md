@@ -4,7 +4,7 @@
 $ Contents
 ## 1\. ASI01: Agent Goal Hijack
 ## 2\. ASI02: Tool Misuse and Exploitation
-## 3\. ASI03: Identity and Privilege Abuse [ASO03](https://github.com/karkideepak/OWASP-Top-10-for-Agentic-Applications/blob/main/ASI03.md)
+## 3\. [ASO03](https://github.com/karkideepak/OWASP-Top-10-for-Agentic-Applications/blob/main/ASI03.md) :Identity and Privilege Abuse 
 ## 4\. ASI04: Agentic Supply Chain Vulnerabilities
 ## 5\. ASI05: Unexpected Code Execution
 ## 6\. ASI06: Memory and Context Poisoning
