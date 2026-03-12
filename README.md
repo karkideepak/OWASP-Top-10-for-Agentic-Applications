@@ -1,7 +1,6 @@
 # OWASP-Top-10-for-Agentic-Applications
  The OWASP GenAI Security Project has released the OWASP Top 10 for Agentic Applications (2026) to address risks where AI meets execution.
 
-$ Contents
 ## 1\. ASI01: Agent Goal Hijack
 ## 2\. ASI02: Tool Misuse and Exploitation
 ## 3\. [ASO03](https://github.com/karkideepak/OWASP-Top-10-for-Agentic-Applications/blob/main/ASI03.md) :Identity and Privilege Abuse 
