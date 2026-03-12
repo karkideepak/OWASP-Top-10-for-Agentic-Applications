@@ -1,3 +1,4 @@
+[Home](https://github.com/karkideepak/OWASP-Top-10-for-Agentic-Applications/blob/main/README.md)
 Agents often share the permissions of the user or a high-level service account. If an agent performs actions without verifying the identity of the requestor against the permission level of the action, attackers can escalate privileges.
 
 **Attack Vector:** Cross-User Privilege Escalation / Confused Deputy.
